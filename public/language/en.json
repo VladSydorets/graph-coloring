@@ -1,0 +1,14 @@
+{
+    "title-name":"Graph Coloring",
+    "instructions":"Instructions:",
+    "first-instruction":"To add a new vertex, choose 'Add vertex' and then left click on the canvas.", 
+    "second-instruction":"To connect vertices, choose 'Connect' and drag the edge from one vertex to another.",
+    "third-instruction":"To remove a vertex/edge, right click on vertex/edge.",
+    "fourth-instruction":"To clear the canvas, you can click on 'Clear all' button.",  
+    "add-vertex":"Add vertex",
+    "clear-all":"Clear all",
+    "connect":"Connect",
+    "export":"Export",
+    "vertex":"Vertex",
+    "edge":"Edge"
+}

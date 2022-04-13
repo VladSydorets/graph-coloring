@@ -1,0 +1,99 @@
+html body {
+  background-color: #F8F8F8;
+  /* disable text selection */
+  user-select:none;
+  -moz-user-select:none;
+  -webkit-user-select:none;
+  -webkit-touch-callout:none;
+  -ms-user-select:none;
+}
+
+svg {
+  cursor: crosshair;
+}
+
+.edge {
+  stroke: #7f7f7f;
+  stroke-width:2px;
+  stroke-linecap: round;
+  stroke-linejoin:miter;
+  cursor: pointer;
+}
+
+.edge:hover, .dragLine {
+  stroke: #333;
+  stroke-width: 3px;
+}
+
+.vertex {
+  cursor: pointer;
+}
+
+.vertex:hover {
+  stroke: #333;
+  opacity: 0.8;
+}
+
+.dragLine.hidden {
+	stroke-width:0;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
+
+#graph-correctness {
+  margin-top: 40%;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.green-color {
+  color:green;
+}
+
+.red-color {
+  color:red;
+}
+
+nav {
+  background-color: rgb(32,46,62);
+}
+
+.navbar-text {
+  color:#F8F8F8;
+}
+
+.navbar-text:hover {
+  color:#F8F8F8;
+  opacity: 0.6;
+}
+
+footer>div {
+  background-color:#F8F9FA;
+}
+
+/* li img {
+  width: 25px;
+} */
+
+/* #navbarDarkDropdownMenuLink {
+  color:#F8F9FA;
+}
+
+#language-menu {
+  background-color: rgb(32,46,62);
+} */
+
+select option {
+  margin: 40px;
+  background-color: rgb(32,46,62);
+  color:#F8F9FA;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+
+#language-selector {
+  background-color: rgb(32,46,62);
+  color:#F8F9FA;
+}

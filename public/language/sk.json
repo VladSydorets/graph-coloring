@@ -1,0 +1,14 @@
+{
+    "title-name":"Farbenie Grafu",
+    "instructions":"Inštrukcie:",
+    "first-instruction":"Ak chcete pridať nový vrchol, vyberte 'Pridať vrchol' a potom kliknite ľavým tlačidlom myši na plátno.", 
+    "second-instruction":"Ak chcete spojiť vrcholy, vyberte 'Pripojiť' a potiahnite z jedného vrcholu do druhého.",
+    "third-instruction":"Ak chcete odstrániť vrchol/hranu, kliknite pravým tlačidlom myši na vrchol/hranu.",
+    "fourth-instruction":"Ak chcete plátno vyčistiť, môžete kliknúť na tlačidlo 'Vymazať všetko'.",  
+    "add-vertex":"Pridať vrchol",
+    "clear-all":"Vymazať všetko",
+    "connect":"Pripojiť",
+    "export":"Exportovať",
+    "vertex":"Vrchol",
+    "edge":"Hrana"
+}
